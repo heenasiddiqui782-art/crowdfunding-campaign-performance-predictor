@@ -12,7 +12,7 @@ An Excel decision-support model that scores a reward-based crowdfunding campaign
 https://github.com/user-attachments/assets/56a1c1e2-7404-44c6-92c1-7b381460b79a
 
 
-Full 54-second walkthrough (1080p): [assets/demo.mp4](assets/demo.mp4)
+
 
 ## What the model does
 
