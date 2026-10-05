@@ -4,8 +4,6 @@
 
 ## Quick links
 
-| | |
-|---|---|
 | 🎬 **Demo video** | 
 
 
@@ -18,8 +16,8 @@ https://github.com/user-attachments/assets/bfefd581-a102-40ad-bbd3-ab586cee0fce
 
  |
 | 📊 **Dashboard image** | <img width="726" height="386" alt="P2 (S2) in outputs" src="https://github.com/user-attachments/assets/d7af6ae9-82c9-4e3c-bb5d-8b575d707e0a" />
-<img width="818" height="394" alt="P2 (S1) in outputs" src="https://github.com/user-attachments/assets/f06841a8-8adb-437a-9aa5-4f1b3253a0b2" />
- |
+<img width="818" height="394" alt="P2 (S1) in outputs" src="https://github.com/user-attachments/assets/f06841a8-8adb-437a-9aa5-4f1b3253a0b2" />|
+
 | 📘 **Excel model** | https://1drv.ms/x/c/d25b756fc27d4ee3/IQAwyVqcK21GTr7WEYjZK6H6AZZ_UvyRA6gEwt4KkGc2R1k?e=cveYEV |
 
 
